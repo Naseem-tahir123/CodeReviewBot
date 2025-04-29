@@ -1,6 +1,11 @@
+ 
 print("Hello world")
 
 def add(a, b):
-    return a /b
+    """Adds two numbers together."""
+    return a + b
+ 
+ 
 def sub(a, b):
-    return a * b
+    """Subtracts b from a."""
+    return a - b
